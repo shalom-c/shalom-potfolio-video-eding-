@@ -1,13 +1,14 @@
-# Video editor portfolio
+# Shalom Taki Sunday — Video Editor Portfolio
 
-A responsive, single-page portfolio built with plain HTML, CSS, and vanilla JavaScript.
+A responsive, single-page portfolio for Shalom Taki Sunday, a video editor specializing in YouTube, short-form, documentary, and podcast storytelling. It is built with plain HTML, CSS, and vanilla JavaScript.
 
-## Customize the portfolio
+## Portfolio details
 
-- In `index.html`, replace **Your Name**, the short bio, email address, and the `X` placeholders in the stats with your own information. Update the page title and social-sharing descriptions too.
-- Open `script.js` and edit the `projects` array at the top. Each project has a `title`, `niche`, `client`, `youtubeId`, and `thumbnail`. Use the ID from the end of a YouTube URL (for example, `M7lc1UVf-VE` from `youtube.com/watch?v=M7lc1UVf-VE`). The sample entries all use YouTube's IFrame Player API demo video; replace the IDs and sample project details before publishing.
-- Replace the sample thumbnail URLs with your own publicly accessible image URLs. Keep descriptive project titles so the generated thumbnail alt text remains useful.
-- The profile and contact links are in `index.html`; replace the sample email address where it appears.
+- Contact: [takisunday3@gmail.com](mailto:takisunday3@gmail.com?subject=Video%20editing%20project%20inquiry&body=Hi%20Shalom%2C%0A%0AI%27d%20like%20to%20talk%20about%20a%20video%20editing%20project.%0A%0A)
+- YTJobs: [Shalom Taki Sunday's profile](http://ytjobs.co/talent/profile/642218?r=749)
+- Editing tools: Premiere Pro, After Effects, DaVinci Resolve, and CapCut.
+- Featured work is maintained in the `projects` array at the top of `script.js`. Each entry includes its YouTube title, niche, client, video ID, and matching YouTube thumbnail URL.
+- The portfolio displays a 48-hour turnaround stat.
 
 ## Run locally
 

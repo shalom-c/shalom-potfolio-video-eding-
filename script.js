@@ -1,46 +1,17 @@
-// Edit these entries to showcase your own projects. Use a YouTube video ID, not its full URL.
 const projects = [
   {
-    title: "The Art of Starting Over",
-    niche: "Documentary",
-    client: "Northbound Studio",
-    youtubeId: "M7lc1UVf-VE",
-    thumbnail: "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=900&q=85"
+    title: "EU SECRETAMENTE ME TORNEI UM SUPER-VILÃO",
+    niche: "Gaming / Minecraft YouTube",
+    client: "oPDR_",
+    youtubeId: "PWgggRfq_fw",
+    thumbnail: "https://img.youtube.com/vi/PWgggRfq_fw/maxresdefault.jpg"
   },
   {
-    title: "A Week in the Wild",
-    niche: "YouTube",
-    client: "Field Notes",
-    youtubeId: "M7lc1UVf-VE",
-    thumbnail: "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=900&q=85"
-  },
-  {
-    title: "Building Better Habits",
-    niche: "Short-form",
-    client: "The Daily Practice",
-    youtubeId: "M7lc1UVf-VE",
-    thumbnail: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=900&q=85"
-  },
-  {
-    title: "The Long Game",
-    niche: "Podcast",
-    client: "Open Chapters",
-    youtubeId: "M7lc1UVf-VE",
-    thumbnail: "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=900&q=85"
-  },
-  {
-    title: "Made by Hand",
-    niche: "Brand film",
-    client: "Forma Objects",
-    youtubeId: "M7lc1UVf-VE",
-    thumbnail: "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=85"
-  },
-  {
-    title: "Finding the Flow",
-    niche: "YouTube",
-    client: "Studio Sunday",
-    youtubeId: "M7lc1UVf-VE",
-    thumbnail: "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=900&q=85"
+    title: "COMO EU CACEI O MAIOR TRAIDOR DO MINECRAFT",
+    niche: "Gaming / Minecraft YouTube",
+    client: "oPDR_",
+    youtubeId: "NHk7lSnSyu8",
+    thumbnail: "https://img.youtube.com/vi/NHk7lSnSyu8/maxresdefault.jpg"
   }
 ];
 

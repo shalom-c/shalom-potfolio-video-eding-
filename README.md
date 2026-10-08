@@ -5,7 +5,6 @@ A responsive, single-page portfolio for Shalom Taki Sunday, a video editor speci
 ## Portfolio details
 
 - Contact: [takisunday3@gmail.com](mailto:takisunday3@gmail.com?subject=Video%20editing%20project%20inquiry&body=Hi%20Shalom%2C%0A%0AI%27d%20like%20to%20talk%20about%20a%20video%20editing%20project.%0A%0A)
-- YTJobs: [Shalom Taki Sunday's profile](http://ytjobs.co/talent/profile/642218?r=749)
 - Editing tools: Premiere Pro, After Effects, DaVinci Resolve, and CapCut.
 - Featured work is maintained in the `projects` array at the top of `script.js`. Each entry includes its YouTube title, niche, client, video ID, and matching YouTube thumbnail URL.
 - The portfolio displays a 48-hour turnaround stat.

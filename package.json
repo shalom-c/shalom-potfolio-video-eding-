@@ -1,0 +1,12 @@
+{
+  "name": "shalom-portfolio-workspace",
+  "private": true,
+  "workspaces": [
+    "portfolio-next"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=portfolio-next",
+    "build": "npm run build --workspace=portfolio-next",
+    "start": "npm run start --workspace=portfolio-next"
+  }
+}

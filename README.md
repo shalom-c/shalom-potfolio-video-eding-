@@ -19,6 +19,17 @@ python -m http.server 8000
 
 Then visit [http://localhost:8000](http://localhost:8000).
 
+## Run the Next.js version
+
+The Next.js portfolio is in `portfolio-next`. Install its dependencies from the repository root, then start the development server:
+
+```sh
+npm install
+npm run dev
+```
+
+Use `npm run build` to build the Next.js app and `npm start` to serve a production build.
+
 ## Deploy for free
 
 ### GitHub Pages
